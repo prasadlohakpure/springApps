@@ -1,7 +1,7 @@
-### springApps is a collection of sample core spring applications for self learning purpose
+# springApps is a collection of sample core spring applications for self learning purpose
 
 ## Topics covered :
-# XML based configuration for dependency injection
+### XML based configuration for dependency injection
 - [X] Bean definition 
 - [X] Bean property
 - [X] Constructoe injection
